@@ -2,6 +2,12 @@
 
 A modern, real-time video chat application inspired by Omegle, built with React, Node.js, and WebRTC.
 
+## 🌐 Live Demo
+
+**Try it now:** [https://uhmegle-e1kz.onrender.com/](https://uhmegle-e1kz.onrender.com/)
+
+> **Note:** The app is hosted on Render's free tier. If inactive for 15 minutes, the backend may take ~30 seconds to wake up on first connection.
+
 ## Features
 
 - **Random Video Chat**: Connect with strangers instantly via WebRTC
@@ -90,19 +96,6 @@ node index.js
 The server will run on `http://localhost:5000`
 
 ### Start the Frontend Development Server
-```bash
-cd client
-npm run dev
-```
-The client will run on `http://localhost:5173`
-
-## Deployment
-
-### Using Cloudflare Tunnels (for testing)
-
-1. **Install Cloudflare Tunnel**
-   ```bash
-   npm install -g cloudflared
    ```
 
 2. **Start Backend Tunnel**
