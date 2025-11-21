@@ -1,6 +1,6 @@
 import io from 'socket.io-client';
 
-const SOCKET_URL = 'https://scheme-cocktail-medline-injection.trycloudflare.com';
+const SOCKET_URL = 'https://unhmegle.onrender.com';
 
 export const socket = io(SOCKET_URL, {
     autoConnect: false,
