@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🎥 un<span style="color: #3b82f6;">h</span>megle
+# 🎥 Un<span style="color: #3b82f6;">h</span>megle
 
 ### *Talk to strangers, make friends.*
 
