@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🎥 unhmegle
+# 🎥 un<span style="color: #3b82f6;">h</span>megle
 
 ### *Talk to strangers, make friends.*
 
@@ -283,11 +283,15 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 ## 📧 Contact
 
-**Praneeth Reddy** - [@praneethreddie](https://github.com/praneethreddie)
+**Praneeth Reddy Vallem**
 
-**Project Link:** [https://github.com/praneethreddie/unhmegle](https://github.com/praneethreddie/unhmegle)
+📧 Email: [praneethreddyvallem@gmail.com](mailto:praneethreddyvallem@gmail.com)
 
-**Live Demo:** [https://uhmegle-e1kz.onrender.com/](https://uhmegle-e1kz.onrender.com/)
+🐙 GitHub: [@praneethreddie](https://github.com/praneethreddie)
+
+🔗 **Project Link:** [https://github.com/praneethreddie/unhmegle](https://github.com/praneethreddie/unhmegle)
+
+🌐 **Live Demo:** [https://uhmegle-e1kz.onrender.com/](https://uhmegle-e1kz.onrender.com/)
 
 ---
 
@@ -295,6 +299,6 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 ### ⭐ Star this repo if you found it helpful!
 
-Made with ❤️ by [Praneeth Reddy](https://github.com/praneethreddie)
+Made with ❤️ by [Praneeth Reddy Vallem](https://github.com/praneethreddie)
 
 </div>
